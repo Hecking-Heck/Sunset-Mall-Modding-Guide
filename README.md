@@ -1,6 +1,8 @@
 # Sunset Mall Modding Guide
 A comprehensive modding guide for Sunset Mall.
 
+> [!NOTE]
+> Right now this guide only shows how to Asset Swap. I am working on a more indepth system and it will be out ASAP!
 
 # Requisites
 [FModel](https://fmodel.app)
