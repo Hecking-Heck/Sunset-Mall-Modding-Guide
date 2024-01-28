@@ -915,3 +915,67 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.01.28-00.53.53:179][708]SourceControl:  create mode 100644 Config/DefaultEngine.ini
 [2024.01.28-00.53.53:179][708]SourceControl:  create mode 100644 SunsetMall.uproject
 [2024.01.28-00.53.53:187][708]SourceControl: Commited [main 3f51dbf] Init..
+[2024.01.28-00.55.17:203][ 18]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.28-00.55.17:240][ 18]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.28-00.55.28:663][ 18]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.28-00.55.28:674][ 18]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.28-00.55.28:680][ 18]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.28-00.55.28:682][ 18]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.28-00.55.34:462][697]LogContentBrowser: Attempting asset rename: NewBlueprint -> BaseActor
+[2024.01.28-00.55.34:536][697]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.28-00.55.35:761][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseActor" FILE="../../../../../../Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide/Content/BaseActor.uasset" SILENT=true
+[2024.01.28-00.55.35:770][833]LogSavePackage: Moving '../../../../../../Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide/Saved/BaseActorA8F6A947402F4F45D411E7AE9812631D.tmp' to '../../../../../../Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide/Content/BaseActor.uasset'
+[2024.01.28-00.55.35:886][833]AssetCheck: New page: Asset Save: BaseActor
+[2024.01.28-00.55.35:886][833]LogContentValidation: Display: Validating Blueprint /Game/BaseActor.BaseActor
+[2024.01.28-00.55.44:912][904]LogContentBrowser: Attempting asset rename: BaseActor -> InitBank
+[2024.01.28-00.55.45:309][904]LogMetaData: Removing '/Game/InitBank.InitBank:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BaseActor.PackageMetaData'
+[2024.01.28-00.55.45:309][904]LogMetaData: Removing '/Game/InitBank.SKEL_InitBank_C:UserConstructionScript' ref from Metadata '/Game/BaseActor.PackageMetaData'
+[2024.01.28-00.55.45:309][904]LogMetaData: Removing '/Game/InitBank.SKEL_InitBank_C' ref from Metadata '/Game/BaseActor.PackageMetaData'
+[2024.01.28-00.55.45:309][904]LogMetaData: Removing '/Game/InitBank.InitBank_C' ref from Metadata '/Game/BaseActor.PackageMetaData'
+[2024.01.28-00.55.45:309][904]LogMetaData: Removing '/Game/InitBank.InitBank:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BaseActor.PackageMetaData'
+[2024.01.28-00.55.45:309][904]LogMetaData: Removing '/Game/InitBank.InitBank:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BaseActor.PackageMetaData'
+[2024.01.28-00.55.45:309][904]LogMetaData: Removing '/Game/InitBank.InitBank:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BaseActor.PackageMetaData'
+[2024.01.28-00.55.45:331][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InitBank" FILE="../../../../../../Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide/Content/InitBank.uasset" SILENT=true
+[2024.01.28-00.55.45:333][904]LogSavePackage: Moving '../../../../../../Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide/Saved/InitBankBE6A197B42B7723A3A7F52B4AD4DFEE9.tmp' to '../../../../../../Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide/Content/InitBank.uasset'
+[2024.01.28-00.55.45:618][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.01.28-00.55.45:629][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.28-00.55.45:632][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.01.28-00.55.45:725][904]SourceControl: rm 'Content/BaseActor.uasset'
+[2024.01.28-00.55.45:750][904]AssetCheck: New page: Asset Save: InitBank
+[2024.01.28-00.55.45:750][904]LogContentValidation: Display: Validating Blueprint /Game/InitBank.InitBank
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:049][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:050][501]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide'
+[2024.01.28-00.55.51:255][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InitBank" FILE="../../../../../../Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide/Content/InitBank.uasset" SILENT=true
+[2024.01.28-00.55.51:258][501]LogSavePackage: Moving '../../../../../../Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide/Saved/InitBankA333D7A741F9C133CACE5F9798B6655E.tmp' to '../../../../../../Users/aiden/Documents/GitHub/Sunset-Mall-Modding-Guide/Content/InitBank.uasset'
+[2024.01.28-00.55.59:034][501]LogSlate: Window 'Submit Files' being destroyed
+[2024.01.28-00.55.59:198][501]LogSourceControl: commit successful: [main 41562ab] Added InitBank Asset.
+[2024.01.28-00.55.59:232][501]SourceControl: [main 41562ab] Added InitBank Asset.
+[2024.01.28-00.55.59:232][501]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2024.01.28-00.55.59:232][501]SourceControl:  create mode 100644 Content/InitBank.uasset
+[2024.01.28-00.55.59:243][501]SourceControl: Commited [main 41562ab] Added InitBank Asset..
+[2024.01.28-00.55.59:263][502]AssetCheck: New page: Asset Save: InitBank
+[2024.01.28-00.55.59:263][502]LogContentValidation: Display: Validating Blueprint /Game/InitBank.InitBank
