@@ -42,6 +42,23 @@ Texture names:
 Normal map can be created with online software or Crazybump
 MRAO creation tutorial: https://dev.epicgames.com/community/learning/tutorials/6Gn5/creating-mrao-textures-using-free-software
 
+# Cooking the Project
+After you have finished with everything in the editor, you can go to File > Cook Content For Windows
+After this go to Sunset-Mall-Modding-Guide-main\Saved\Cooked\WindowsNoEditor\SunsetMall\Content\
+Copy all of those files into a new folder called whatever your naming your mod but add "_P" on the end.
+For Example "SunsetMallTextureOverhaul_P".
+
+Now drag and drop the _P folder you just made onto UnrealPack With Compression, it will make a .PAK file in the location of your folder. This is your mod.
+
+# Installing the mod
+Drag the .PAK file to your Sunset Mall Steam Dir, in the Paks folder
+for example C:\Program Files (x86)\Steam\steamapps\common\Sunset Mall\SunsetMall\Content\Paks
+
+Now boot the game up, it should run your mod!
+
+I tested this with a Poster Replacement mod and it worked perfectly!
+
+
 # Credits
 
 [FModel](https://fmodel.app)
