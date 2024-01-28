@@ -46,7 +46,11 @@ MRAO creation tutorial: https://dev.epicgames.com/community/learning/tutorials/6
 
 # Cooking the Project
 After you have finished with everything in the editor, you can go to File > Cook Content For Windows
-After this go to Sunset-Mall-Modding-Guide-main\Saved\Cooked\WindowsNoEditor\SunsetMall\Content\
+After this go to:
+``
+Sunset-Mall-Modding-Guide-main\Saved\Cooked\WindowsNoEditor\SunsetMall\Content\
+``
+
 Copy all of those files into a new folder called whatever your naming your mod but add "_P" on the end.
 For Example "SunsetMallTextureOverhaul_P".
 
@@ -55,8 +59,9 @@ Now drag and drop the _P folder you just made onto UnrealPack With Compression, 
 # Installing the mod
 Drag the .PAK file to your Sunset Mall Steam Dir, in the Paks folder
 
+For Example:
 ``
-for example C:\Program Files (x86)\Steam\steamapps\common\Sunset Mall\SunsetMall\Content\Paks
+C:\Program Files (x86)\Steam\steamapps\common\Sunset Mall\SunsetMall\Content\Paks
 ``
 
 Now boot the game up, it should run your mod!
