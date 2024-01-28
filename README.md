@@ -71,6 +71,10 @@ Now boot the game up, it should run your mod!
 I tested this with a Poster Replacement mod and it worked perfectly!
 
 
+> [!NOTE]
+> Here is a [Test Mod Created With This Guide](https://github.com/Hecking-Heck/Sunset-Mall-Yippee-Test-Mod-Example)
+
+
 # Credits
 
 [FModel](https://fmodel.app)
