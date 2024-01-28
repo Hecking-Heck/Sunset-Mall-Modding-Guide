@@ -26,3 +26,26 @@ Current version -> Unreal Engine 4.27.1
 
 # Creating the Unreal Engine Project
 Creating Unreal Engine 4.27.1 mod project and preparing it
+
+Use Pak file only
+Packaging --> Advanced ---> Cook everything  in the project content directory
+
+# Notes on Texture Names
+Texture names:
+
+<Texturenamehere>_B = Base texture
+
+<Texturenamehere>_M = MRAO (MetallicRoughnessOcclusionSpecular)
+
+<Texturenamehere>_N = Normal Map
+
+Normal map can be created with online software or Crazybump
+MRAO creation tutorial: https://dev.epicgames.com/community/learning/tutorials/6Gn5/creating-mrao-textures-using-free-software
+
+# Credits
+
+[FModel](https://fmodel.app)
+
+[UnrealPak](https://github.com/allcoolthingsatoneplace/UnrealPakTool)
+
+[Unreal Engine](https://www.unrealengine.com/en-US)
