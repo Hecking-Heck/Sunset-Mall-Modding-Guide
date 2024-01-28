@@ -47,6 +47,7 @@ MRAO creation tutorial: https://dev.epicgames.com/community/learning/tutorials/6
 # Cooking the Project
 After you have finished with everything in the editor, you can go to File > Cook Content For Windows
 After this go to:
+
 ``
 Sunset-Mall-Modding-Guide-main\Saved\Cooked\WindowsNoEditor\SunsetMall\Content\
 ``
@@ -60,6 +61,7 @@ Now drag and drop the _P folder you just made onto UnrealPack With Compression, 
 Drag the .PAK file to your Sunset Mall Steam Dir, in the Paks folder
 
 For Example:
+
 ``
 C:\Program Files (x86)\Steam\steamapps\common\Sunset Mall\SunsetMall\Content\Paks
 ``
