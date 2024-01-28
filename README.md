@@ -54,7 +54,10 @@ Now drag and drop the _P folder you just made onto UnrealPack With Compression, 
 
 # Installing the mod
 Drag the .PAK file to your Sunset Mall Steam Dir, in the Paks folder
+
+``
 for example C:\Program Files (x86)\Steam\steamapps\common\Sunset Mall\SunsetMall\Content\Paks
+``
 
 Now boot the game up, it should run your mod!
 
